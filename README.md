@@ -15,7 +15,7 @@ Before you begin, make sure you have the following installed on your system:
 1. Clone the TripNest repository from GitHub:
 
    ```
-   git clone https://github.com/gawandeabhishek/TripNest-Major-Project.git
+   (https://github.com/Vikas-Srivastava-10/TripNest)
    ```
 
 2. Set up the database:
